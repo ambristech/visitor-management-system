@@ -10,3 +10,7 @@ Free Open Source Best visitor management system application then this app can ea
 🔍 Invoice Search: Find and view invoices with PDF download option.</br>
 📊 Stock Reporting: Detailed reports with category, date, and stock filters.</br>
 📱 Responsive Design: Works seamlessly across devices.</br>
+
+📧 Contact
+<strong>Email</strong>: <a href="mailto:ambristech@gmail.com">ambristech@gmail.com</a>
+<strong>GitHub</strong>: <a href="https://github.com/ambristech" target="_blank">Ambrish Other Projects</a>
